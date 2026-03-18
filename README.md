@@ -1,4 +1,4 @@
-# 🦊 Blue Fox: Ultimate Desktop Starter Kit
+# 🦊 White Fox: Ultimate Desktop Starter Kit
 
 > **Note:** This is a **Public Documentation Repository**. The full source code, pre-configured Nx workspace, and production-ready sidecar orchestration are available exclusively through a commercial license.
 > 
