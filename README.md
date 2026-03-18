@@ -1,4 +1,11 @@
-﻿# White Fox: Ultimate Desktop Starter Kit
+# 🦊 Blue Fox: Ultimate Desktop Starter Kit
+
+> **Note:** This is a **Public Documentation Repository**. The full source code, pre-configured Nx workspace, and production-ready sidecar orchestration are available exclusively through a commercial license.
+> 
+> [👉 **Get Instant Access to Full Source Code**](https://skillfulfox.lemonsqueezy.com/)
+
+---
+ # White Fox: Ultimate Desktop Starter Kit
 
 Commercial desktop starter kit built with `Electron + Angular + NestJS + Nx`.
 
